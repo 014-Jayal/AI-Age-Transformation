@@ -16,7 +16,7 @@ The AI Age Transformation Tool is an advanced system for facial age progression 
 ## Results Example
 | Original | Age 60 Output |
 |---------|----------------|
-| <img src="images/original.jpg" width="280"> | <img src="images/aged_60.png" width="280"> |
+| <img src="images/original.jpg" width="280"> | <img src="images/aged_60.jpg" width="280"> |
 
 ## Tech Stack
 - **AI:** Stable Diffusion v1.5, LoRA Age Slider, diffusers
