@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Project Specific output
+output/
+*.png
+*.jpg
+*.jpeg
+
+# Exclude Input images (except the sample you explicitly want to track)
+images/*
+!images/sample.jpg
+
+# Model Weights (Very Important: Do not upload large AI models)
+*.safetensors
+*.pt
+*.ckpt
+*.bin
+
+# IDE settings
+.vscode/
+.idea/

@@ -1,0 +1,27 @@
+Pillow
+numpy
+scikit-learn
+opencv-python
+imageio
+matplotlib
+diffusers
+transformers
+accelerate
+face-alignment
+insightface
+onnxruntime
+scipy
+joblib
+threadpoolctl
+contourpy
+cycler
+fonttools
+kiwisolver
+packaging
+pyparsing
+python-dateutil
+six
+tqdm
+torch                 # <--- ADD THIS LINE
+torchvision           # <--- ADD THIS LINE
+peft
