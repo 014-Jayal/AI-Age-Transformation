@@ -1,7 +1,7 @@
 
 # AI Age Transformation Tool
 
-A comprehensive facial age progression and regression system built using **Stable Diffusion**, **LoRA age models**, **face-alignment**, and **identity verification** (ArcFace).  
+A comprehensive facial age progression and regression system built using **Stable Diffusion**, **LoRA age models**, **face-alignment**, and **identity verification** (ArcFace). 
 This repository includes multiple variants of the app—GPU-optimized, SDXL-based, upscaler-enabled, and a simplified demo version.
 
 ---
