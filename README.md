@@ -159,7 +159,7 @@ Using **ArcFace embeddings**:
 
 | Original Image | Aged Output (60 Years) |
 |----------------|------------------------|
-| <img src="images/original.jpg" width="260"> | <img src="images/aged_60.png" width="260"> |
+| <img src="images/original.jpg" width="260"> | <img src="images/aged_60.jpg" width="260"> |
 
 ---
 
